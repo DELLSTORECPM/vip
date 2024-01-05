@@ -1,0 +1,24 @@
+2024-01-05, 1 - Email: cpmdlstore@gmail.com, Password: cpm9090
+ >> Nickname : [002dff]A[005aff]K[0087ff]U[00b4ff]N[00e1ff] [d2ff00]D[a5ff00]I[78ff00]J[4bff00]U[1eff00]A[00d2ff]L[00a5ff] [0078ff]V[004bff]I[001eff]A[ff2d00] [ff5a00]T[ff8700]I[ffb400]K[ffe100]T[d2ff00]O[a5ff00]K[78ff00] [4bff00]C[1eff00]O[00d2ff]I[00a5ff]N
+ >> ID       : AKUNDIJUAL
+ >> Money    : 50000000
+ >> Coin     : 30000
+ >> Win Race : 2
+ >> Lose Race: 0
+ >> Plat Data: [{'vinyls': [], 'plateId': 1, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 2, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 3, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 4, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 5, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 6, 'rearCarId': -1, 'frontCarId': -1}]
+2024-01-05, 1 - Email: cpmdlstore@gmail.com, Password: cpm9090
+ >> Nickname : [002dff]A[005aff]K[0087ff]U[00b4ff]N[00e1ff] [d2ff00]D[a5ff00]I[78ff00]J[4bff00]U[1eff00]A[00d2ff]L[00a5ff] [0078ff]V[004bff]I[001eff]A[ff2d00] [ff5a00]T[ff8700]I[ffb400]K[ffe100]T[d2ff00]O[a5ff00]K[78ff00] [4bff00]C[1eff00]O[00d2ff]I[00a5ff]N
+ >> ID       : AKUNDIJUAL
+ >> Money    : 50000000
+ >> Coin     : 30000
+ >> Win Race : 2
+ >> Lose Race: 0
+ >> Plat Data: [{'vinyls': [], 'plateId': 1, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 2, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 3, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 4, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 5, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 6, 'rearCarId': -1, 'frontCarId': -1}]
+2024-01-05, 1 - Email: cpmdlstore@gmail.com, Password: cpm9090
+ >> Nickname : [002dff]A[005aff]K[0087ff]U[00b4ff]N[00e1ff] [d2ff00]D[a5ff00]I[78ff00]J[4bff00]U[1eff00]A[00d2ff]L[00a5ff] [0078ff]V[004bff]I[001eff]A[ff2d00] [ff5a00]T[ff8700]I[ffb400]K[ffe100]T[d2ff00]O[a5ff00]K[78ff00] [4bff00]C[1eff00]O[00d2ff]I[00a5ff]N
+ >> ID       : AKUNDIJUAL
+ >> Money    : 50000000
+ >> Coin     : 30000
+ >> Win Race : 2
+ >> Lose Race: 0
+ >> Plat Data: [{'vinyls': [], 'plateId': 1, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 2, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 3, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 4, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 5, 'rearCarId': -1, 'frontCarId': -1}, {'vinyls': [], 'plateId': 6, 'rearCarId': -1, 'frontCarId': -1}]
